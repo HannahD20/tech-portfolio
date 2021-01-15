@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Hannah Dornbusch', // Title for your website.
-    tagline: 'Speak with truth. Be brave, yet kind.',
+    tagline: 'Speak with truth. Be kind, yet brave.',
     profilePhoto: 'img/profile.png',
     url: 'https://HannahD20.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
